@@ -1,7 +1,5 @@
 # Convert-HTML-Files-To-PHP-Files
 
-## Convert HTML Files To PHP Files v1.0
-
 ## About
 
 It help you to convert static HTML file to PHP File When you get html files from web designer and want to develop them.
@@ -26,3 +24,5 @@ The HTML Files will convert to PHP Files.
 	* Convert HTML Files To PHP Files v1.0 (https://github.com/esameisa/Convert-HTML-Files-To-PHP-Files)
 	* Copyright 2013-2017 Eisa Design.
 	*/
+
+## Convert HTML Files To PHP Files v1.0
