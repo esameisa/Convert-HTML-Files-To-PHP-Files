@@ -32,6 +32,6 @@ My Name is: Esam Ahmed Eisa
 
 Mobile Number: (+2) 010-989-50608
 
-Email: support@esameisa.com
+Email: Support@esameisa.com
 
-<a href="http://www.esameisa.com" target="_blank">http://www.esameisa.com</a>
+Website: <a href="http://www.esameisa.com" target="_blank">http://www.esameisa.com</a>
