@@ -22,5 +22,5 @@ The HTML Files will convert to PHP Files.
 	* Email: support@esameisa.com
 	* Website: http://www.esameisa.com
 	* Convert HTML Files To PHP Files v1.0 (https://github.com/esameisa/Convert-HTML-Files-To-PHP-Files)
-	* Copyright 2013-2017 Eisa Design, Inc.
+	* Copyright 2013-2017 Eisa Design.
 	*/
